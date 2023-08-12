@@ -1,0 +1,6 @@
+{
+  "host": "domain.com",
+  "port": 443,
+  "path": "downloads/path_to_license.json",
+  "use_ssl": true
+}

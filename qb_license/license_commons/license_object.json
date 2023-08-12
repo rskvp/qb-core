@@ -1,0 +1,9 @@
+{
+  "uid": "test",
+  "creation_time": "2020-01-12T17:09:43.275259+01:00",
+  "duration_days": 1,
+  "name": "Sample",
+  "email": "angelo.geminiani@gmail.com",
+  "lang": "it",
+  "enabled": true
+}
